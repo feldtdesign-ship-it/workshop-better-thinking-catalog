@@ -13,4 +13,4 @@ so the page needs a network connection to look right.
 
 ## Related
 
-- [workshop-box-deck](https://github.com/feldtdesign-ship-it/workshop-box-deck) — the 109-card deck.
+- [workshop-box-deck](https://github.com/feldtdesign-ship-it/workshop-box-deck) — the 108-card deck.
